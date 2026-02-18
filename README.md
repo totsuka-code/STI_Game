@@ -28,7 +28,7 @@
 
 | 担当 | GitHubアカウント |
 |------|------------------|
-| 🎮 プログラマー | [totsuka0405](https://github.com/totsuka0405), [nakashu195](https://github.com/nakashu195) |
+| 🎮 プログラマー | [totsuka-code](https://github.com/totsuka-code), [nakashu195](https://github.com/nakashu195) |
 | 🎨 モデリング | [KeiB782](https://github.com/KeiB782), [suika777](https://github.com/suika777), [TK220168ishizaki](https://github.com/TK220168ishizaki), [tk220538](https://github.com/tk220538) |
 | 💡 企画 | [tk220538](https://github.com/tk220538), [KeiB782](https://github.com/KeiB782) |
 
